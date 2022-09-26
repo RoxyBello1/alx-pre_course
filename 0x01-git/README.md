@@ -1,2 +1,2 @@
-My second commit
-My second commit updated
+README file updated My second commit 
+
